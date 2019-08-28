@@ -1,0 +1,24 @@
+PODS:
+  - JCore (2.1.1)
+  - JPush (3.2.2):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - XKNotificationCenter (2.2.0)
+
+DEPENDENCIES:
+  - JPush
+  - XKNotificationCenter
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JCore
+    - JPush
+    - XKNotificationCenter
+
+SPEC CHECKSUMS:
+  JCore: 4072327557f0b83cc22dd4041f2f839740c0077b
+  JPush: 0e9088c85c73275629facc311fe5992dfac36eeb
+  XKNotificationCenter: 140337e4069f3efd6d9ad821137310c3fb75c90a
+
+PODFILE CHECKSUM: 331bc903a60458cbc13bc3e65825717cce653be0
+
+COCOAPODS: 1.6.0
